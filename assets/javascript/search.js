@@ -1,6 +1,6 @@
 var searchTopics = ["Chewbacca", "Han Solo", "Luke Skywalker", "Snoke", "Ahsoka Tano", "Revan"];
 
-var baseUrl="http://api.giphy.com/v1/gifs/search";
+var baseUrl="https://api.giphy.com/v1/gifs/search";
 var apiKey="dc6zaTOxFJmzC";
 var imageLimit=10;
 var baseParam="?"+"api_key="+apiKey+"&limit="+imageLimit+"&q=";
